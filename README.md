@@ -13,5 +13,5 @@
 
 1. Скопировать application.properties.example
 2. Создать application.properties
-3. Заполнить токены
+3. Заполнить токены Telegram и OpenRouter
 4. Запустить run.bat
