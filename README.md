@@ -11,6 +11,7 @@
 
 ## Запуск
 
-1. Скопировать application.properties.example в application.properties
-2. Заполнить токены
-3. Запустить run.bat
+1. Скопировать application.properties.example
+2. Создать application.properties
+3. Заполнить токены
+4. Запустить run.bat
